@@ -1,0 +1,7 @@
+#                                                                   -*- conf -*-
+
+# Editor backup files
+*~
+\#*
+.\#*
+.*.swp
